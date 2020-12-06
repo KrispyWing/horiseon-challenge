@@ -1,7 +1,7 @@
 # Horiseon Webpage - Code Refractor Challenge
-* [General info] (#general-info)
-* [Technologies] (#technologies)
-* [Setup] (#setup)
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
 ## General Info
 This project was an exercise to take an existing webpage and to clean up and optimize the existing HTML and CSS files to make
