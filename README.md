@@ -2,6 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Mockup Image](#mockup-image)
 
 ## General Info
 This project was an exercise to take an existing webpage and to clean up and optimize the existing HTML and CSS files to make
@@ -12,3 +13,6 @@ This project uses HTML and CSS
 
 ## Setup
 Page can be viewed at https://krispywing.github.io/horiseon-challenge
+
+## Mockup Image
+<img src="./assets/images/horiseon-mockup.png" />
